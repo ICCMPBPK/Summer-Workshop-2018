@@ -1,6 +1,6 @@
 
 # adjacency matrix
-
+ 
 N.3 = function(X)
 {
    n = nrow(X)
